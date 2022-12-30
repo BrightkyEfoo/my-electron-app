@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "my first windows application",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electronmon ."
+  },
+  "author": "BRIGHTKY",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
